@@ -1,8 +1,3 @@
----
-
-### File 2: Save as `CONTRIBUTING.md`
-
-```markdown
 # Contributing Guidelines
 
 Thank you for contributing to the Student Management CRUD project! To maintain code quality, clear history, and smooth collaboration, all contributors must adhere to the following standards.
