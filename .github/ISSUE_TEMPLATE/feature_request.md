@@ -1,9 +1,4 @@
 ---
-
-### File 4: Save as `feature_request.md`
-
-```markdown
----
 name: Feature Request
 about: Propose a new feature, architecture improvement, or CRUD functionality.
 title: "[FEAT]: "
