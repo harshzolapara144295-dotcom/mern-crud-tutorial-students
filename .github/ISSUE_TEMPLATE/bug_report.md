@@ -1,9 +1,4 @@
 ---
-
-### File 3: Save as `bug_report.md`
-
-```markdown
----
 name: Bug Report
 about: Report a reproducible defect, API error, or broken UI behavior.
 title: "[BUG]: "
